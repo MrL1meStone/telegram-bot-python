@@ -2,7 +2,7 @@ import os
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('7811689736:AAH6fowvyNk2rGeEltS0QCYAO9KbTLgXQt8')
+bot = telebot.TeleBot('BOT-TOKEN')
 
 matrix=[['k', 'i', 'v', 'Я', 'ю', 'ж', 'Ы', 'М', 'M', 'У', 'ы', 'j', 'Э', '6', "'", '4', 'Т', 'D', 'г', '=', 'w', 'n', 'ш'],
         ['Л', 'V', 'F', 'В', 'я', '1', 'S', 'т', 'ф', 'м', 'ё', 'Q', 'у', 'а', 'э', '}', 'q', 'm', '>', 'к', 'ъ', '@', 'N'],
